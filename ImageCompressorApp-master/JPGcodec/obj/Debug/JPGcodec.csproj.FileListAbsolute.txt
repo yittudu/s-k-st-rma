@@ -1,0 +1,10 @@
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\bin\Debug\JPGcodec.exe.config
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\bin\Debug\JPGcodec.exe
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\bin\Debug\JPGcodec.pdb
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.csprojAssemblyReference.cache
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.Form1.resources
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.Properties.Resources.resources
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.csproj.GenerateResource.cache
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.exe
+C:\Users\Casper\Downloads\ImageCompressorApp-master\ImageCompressorApp-master\JPGcodec\obj\Debug\JPGcodec.pdb
